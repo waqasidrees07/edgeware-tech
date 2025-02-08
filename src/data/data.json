@@ -17,38 +17,38 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Assess IQ",
+      "url": "https://www.assessiq.ai/",
+      "smallImage": "img/portfolio/assess-iq.png"
+    },
+    {
+      "title": "Practice Tool AI",
+      "url": "https://practicetoolai.demystifyenglish.com/",
+      "smallImage": "img/portfolio/practice-tool.png"
+    },
+    {
+      "title": "Career Guidance",
+      "url": "img/portfolio/career-guidance.png",
+      "smallImage": "img/portfolio/career-guidance.png"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
+      "url": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
+      "url": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
+      "url": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
+      "url": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
@@ -92,6 +92,16 @@
       "icon": "fa fa-cogs",
       "name": "Custom Software Development",
       "text": "Tailored solutions designed for unique business challenges."
+    },
+    {
+      "icon": "fa fa-cubes",
+      "name": "Microservices Architecture",
+      "text": "Scalable, modular, and resilient systems for high-performance applications."
+    },
+    {
+      "icon": "fa fa-credit-card",
+      "name": "SaaS Development",
+      "text": "Cloud-based, multi-tenant SaaS solutions tailored for businesses."
     }
   ],
   "Testimonials": [
@@ -149,33 +159,70 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Gulberg 3, Lahore, Punjab, Pakistan",
+    "phone": "+92 315-6884368",
+    "email": "admin@edgewaretechnologies.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
+    "linkedin": "linkedin.com",
     "youtube": "youtube.com"
   },
-  "Features": [
+  "Technologies": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "python.png",
+      "title": "Python"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "django.png",
+      "title": "Django"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "express.png",
+      "title": "Express.js"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "react.png",
+      "title": "React.js"
+    },
+    {
+      "icon": "vue.png",
+      "title": "Vue.js"
+    },
+    {
+      "icon": "mongo.png",
+      "title": "MongoDB"
+    },
+    {
+      "icon": "postgres.png",
+      "title": "PostgreSQL"
+    },
+    {
+      "icon": "mysql.png",
+      "title": "MySQL"
+    },
+    {
+      "icon": "sqlite.png",
+      "title": "SQLite"
+    },
+    {
+      "icon": "node.png",
+      "title": "Node.js"
+    },
+    {
+      "icon": "aws.png",
+      "title": "AWS"
+    },
+    {
+      "icon": "open-ai.png",
+      "title": "OpenAI"
+    },
+    {
+      "icon": "typescript.png",
+      "title": "Typescript"
+    },
+    {
+      "icon": "docker.jpg",
+      "title": "Docker"
     }
   ]
-}
+    }
