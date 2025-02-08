@@ -5,7 +5,7 @@ export const Image = ({ title, url, smallImage }) => {
     <div className="portfolio-item">
       <div className="hover-bg">
         {" "}
-        <a href={url} title={title} data-lightbox-gallery="gallery1" target={"_blank"}>
+        <a href={url} title={title} data-lightbox-gallery="gallery1" target="_blank" rel="noopener noreferrer">
           <div className="hover-text">
             <h4>{title}</h4>
           </div>
