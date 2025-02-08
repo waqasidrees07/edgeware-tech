@@ -1,21 +1,18 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Edgeware Technologies",
+    "paragraph": "Crafting the Future with Code, Intelligence, and Innovation"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At Edgeware Technologies, we are more than just a software company—we are innovators, problem-solvers, and technology enthusiasts. We specialize in building fully customized and highly functional digital solutions tailored to your needs. Whether you require a scalable web platform, an intuitive mobile application, an efficient desktop solution, or cutting-edge AI/ML-powered systems, we bring expertise and creativity to every project.\n\n Our mission is to empower businesses with intelligent technology by integrating the latest advancements in AI, machine learning, cloud computing, and full-stack development. From startups to enterprises, we help businesses achieve digital transformation with seamless, high-performance solutions.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Custom-Tailored Solutions",
+      "Scalability & Performance",
+      "Agile & Collaborative"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Cutting-Edge Innovation",
+      "Secure & Reliable"
     ]
   },
   "Gallery": [
@@ -67,34 +64,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-code",
+      "name": "Web Development",
+      "text": "Scalable, high-performance websites."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-mobile",
+      "name": "Mobile App Development",
+      "text": "Cross-platform apps built for your business."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-desktop",
+      "name": "Desktop Applications",
+      "text": "Robust and secure software for various industries."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-lightbulb-o",
+      "name": "AI & Machine Learning",
+      "text": "Intelligent automation, predictive analytics, and data-driven insights."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cloud",
+      "name": "Cloud & DevOps Solutions",
+      "text": "Scalable cloud architectures, serverless computing, and CI/CD pipelines."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cogs",
+      "name": "Custom Software Development",
+      "text": "Tailored solutions designed for unique business challenges."
     }
   ],
   "Testimonials": [
