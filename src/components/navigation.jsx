@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            Edgeware Technologies
+            <img src="img/edgeware-logo/transparent-pngs/edgeware-logo-01.png" alt="logo" />
           </a>{" "}
         </div>
 

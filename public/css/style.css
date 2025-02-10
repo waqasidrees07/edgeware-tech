@@ -87,6 +87,14 @@ hr {
   color: #333;
   text-transform: uppercase;
 }
+
+.navbar-brand img {
+  width: 250px;
+  height: auto;
+  object-fit: contain;
+  margin-top: -30px;
+}
+
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
@@ -166,8 +174,8 @@ hr {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-color: #011f5b;
+  /* background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%); */
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -184,7 +192,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: #65cdaa;
 }
 .btn:active,
 .btn.active {
@@ -310,7 +318,8 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  /* background: linear-gradient(to right, #65cdaa 0%, #65cdaa 100%); */
+  background: #011f5b;
   color: #fff;
 }
 #services .service-desc {
@@ -334,7 +343,8 @@ header .intro-text {
   width: 120px;
   height: 120px;
   padding: 40px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  /* background: linear-gradient(to right, #011f5b 0%, #011f5b 100%); */
+  background:#65cdaa;
   border-radius: 50%;
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
@@ -460,7 +470,8 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  /* background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%); */
+  background: #011f5b;
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
@@ -505,7 +516,7 @@ header .intro-text {
 }
 #contact .btn-custom:hover {
   color: #1f386e;
-  background: #fff;
+  background: #65cdaa;
 }
 label {
   font-size: 12px;
