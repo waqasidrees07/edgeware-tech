@@ -591,8 +591,9 @@ label {
   transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-  color: #608dfd;
-  background: #fff;
+  color: #1f386e;
+  background: #65cdaa;
+
 }
 /* Footer Section*/
 #footer {

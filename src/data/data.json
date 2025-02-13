@@ -107,33 +107,33 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Edgeware Technologies transformed our outdated system into a high-performance web application using Django and React. Their attention to detail and clean coding practices were outstanding!\"",
+      "name": "Michael Thompson"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Edgeware Technologies built a SaaS platform that scaled seamlessly as our user base grew. Their expertise in multi-tenant architecture and microservices was exactly what we needed!\"",
+      "name": "Sophia Lee"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Edgeware Technologies built an AI-powered web scraping tool that automates data collection from thousands of websites. Their deep understanding of Python and NLP made it a huge success!\"",
+      "name": "James Carter"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Our e-commerce platform needed a robust backend to handle high traffic. Edgeware Technologies implemented a microservices-based solution that improved speed and reliability significantly!\"",
+      "name": "David Kim"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"We needed reliable API integrations with multiple services. Edgeware Technologies delivered a well-documented and secure API that made our system more efficient.\"\"",
+      "name": "Daniel White"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Edgeware Technologies built a web-based analytics dashboard that streamlined our business intelligence. Their expertise in Django, React, and PostgreSQL was invaluable!\"",
+      "name": "Olivia Martinez"
     }
   ],
   "Team": [
@@ -164,7 +164,7 @@
     "email": "admin@edgewaretechnologies.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
-    "linkedin": "linkedin.com",
+    "linkedin": "https://www.linkedin.com/company/106111377/admin/dashboard/",
     "youtube": "youtube.com"
   },
   "Technologies": [
@@ -215,6 +215,10 @@
     {
       "icon": "open-ai.png",
       "title": "OpenAI"
+    },
+    {
+      "icon": "rails.png",
+      "title": "ROR"
     },
     {
       "icon": "typescript.png",
