@@ -130,7 +130,7 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.linkedin : "/"} target="_blank">
+                    <a href={props.data ? props.data.linkedin : "/"} target="_blank" rel="noopener noreferrer">
                       <i className="fa fa-linkedin"></i>
                     </a>
                   </li>
