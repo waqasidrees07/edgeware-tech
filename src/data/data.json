@@ -17,11 +17,6 @@
   },
   "Gallery": [
     {
-      "title": "Invoicevo",
-      "url": "https://invoicevo.com/",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
       "title": "Assess IQ",
       "url": "https://www.assessiq.ai/",
       "smallImage": "img/portfolio/assess-iq.png"
@@ -35,6 +30,11 @@
       "title": "Career Guidance",
       "url": "img/portfolio/career-guidance.png",
       "smallImage": "img/portfolio/career-guidance.png"
+    },
+    {
+      "title": "Invoicevo",
+      "url": "https://invoicevo.com/",
+      "smallImage": "img/portfolio/04-small.jpg"
     }
   ],
   "Services": [
