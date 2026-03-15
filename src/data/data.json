@@ -17,6 +17,11 @@
   },
   "Gallery": [
     {
+      "title": "Invoicevo",
+      "url": "https://invoicevo.com/",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
       "title": "Assess IQ",
       "url": "https://www.assessiq.ai/",
       "smallImage": "img/portfolio/assess-iq.png"
@@ -30,36 +35,6 @@
       "title": "Career Guidance",
       "url": "img/portfolio/career-guidance.png",
       "smallImage": "img/portfolio/career-guidance.png"
-    },
-    {
-      "title": "Project Title",
-      "url": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "url": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "url": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "url": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
